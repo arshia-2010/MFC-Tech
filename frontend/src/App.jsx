@@ -57,6 +57,7 @@ export default function App() {
       <button onClick={handlePost}>Send POST</button>
 
       <p>{postResponse}</p>
+      <h1>Hi guys!!</h1>
     </div>
   );
 }
